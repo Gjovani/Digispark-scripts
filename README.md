@@ -66,7 +66,7 @@ Finished product:
 
 I'm thinking of making a wooden box instead of this, but will see...
 
-The [code](google_meet.ino) is pretty straightforward. Just plug it in and it should works on any computer, no drivers are needed to install because it's basically a keyboard.
+The [code](scripts/google_meet.ino) is pretty straightforward. Just plug it in and it should works on any computer, no drivers are needed to install because it's basically a keyboard.
 
 (tested on Windows and Linux. I will update the code when I get the opportunity to test it on OSX)
 
@@ -81,7 +81,7 @@ Fear no more! Here's the **emergency screen lock button!**
 
 <p align="center"><img src="images/emergency_button.jpg" width=300></p>
 
-jokes aside, this was an idea what I wanted to make but since this pandemic started I couldn't find one of these in the local shops, nor online which had normal shipping price & time. If you wanna try, here's the [code](win_lock.ino). (on OSX the lock screen key combination is different, so need to change that)
+jokes aside, this was an idea what I wanted to make but since this pandemic started I couldn't find one of these in the local shops, nor online which had normal shipping price & time. If you wanna try, here's the [code](scripts/win_lock.ino). (on OSX the lock screen key combination is different, so need to change that)
 
 also, if you reading this from the future and asking yourself "which pandemic I'm talking about" well it is/was [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019).
 
@@ -92,6 +92,6 @@ are used in Digital Forensics to prevent the screen from locking. I saw some of 
 
 You can make your own for way cheaper using a Digispark, works perfectly fine unless the system you plugging it in has some kind of protection against HID attacks.
 
-Here's the [code](mouse_circle.ino)
+Here's the [code](scripts/mouse_circle.ino)
 
 <p align="center"><img src="images/cursor.gif" width=500></p>
